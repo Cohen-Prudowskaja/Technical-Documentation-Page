@@ -1,0 +1,18 @@
+html {
+    box-sizing: border-box;
+  }
+  
+  #main-doc {
+    position: absolute;
+    margin-left: 150px;
+  }
+  
+  #navbar {
+    width: 150px;
+    float: left;
+    padding: 10px;
+  }
+  
+  @media (max-width: 768px) {}
+  
+  @media (max-width: 1199px) and (min-width: 769px) {}
